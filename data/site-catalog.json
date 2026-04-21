@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T02:08:19.013Z",
+  "generated_at": "2026-04-21T03:12:03.169Z",
   "active_profile": "marcelo",
   "catalog": {
     "site": {
@@ -21,7 +21,7 @@
       "googleDevelopers": "",
       "openProfile": "",
       "curriculum": "https://github.com/mozgbrasil/node-vitepress-marcelo",
-      "githubPages": "https://github.com/mozgbrasil/node-vitepress-marcelo",
+      "githubPages": "",
       "profileImage": "/logo-mini.svg",
       "institutionLogo": "",
       "mapsUrl": "",
@@ -59,11 +59,7 @@
         "sameAs": [
           "https://github.com/mozgbrasil/node-vitepress-marcelo",
           "https://www.linkedin.com/in/marcerebrum/",
-          "https://www.cerebrum.com.br/",
-          "https://github.com/mozgbrasil/node-vitepress-marcelo",
-          "https://github.com/mozgbrasil/node-vitepress-marcelo",
-          "https://www.cerebrum.com.br/",
-          "https://www.linkedin.com/in/marcerebrum/"
+          "https://www.cerebrum.com.br/"
         ]
       },
       "pixOptions": [],
@@ -402,7 +398,7 @@
     }
   },
   "audit": {
-    "generated_at": "2026-04-21T02:08:19.013Z",
+    "generated_at": "2026-04-21T03:12:03.169Z",
     "company": "Cerebrum",
     "site_url": "https://www.cerebrum.com.br/",
     "counts": {
