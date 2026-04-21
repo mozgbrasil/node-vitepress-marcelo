@@ -1,0 +1,31 @@
+{
+  "generated_at": "2026-04-21T00:39:40.261Z",
+  "profile_id": "marcelo",
+  "label": "Marcelo",
+  "title": "Marcelo | Cerebrum",
+  "headline": "Perfil institucional",
+  "primary_url": "https://www.cerebrum.com.br/",
+  "public_repository": "https://github.com/mozgbrasil/node-vitepress-marcelo",
+  "site_url": "https://www.cerebrum.com.br/",
+  "source_urls": [
+    "https://www.cerebrum.com.br/",
+    "https://www.linkedin.com/in/marcerebrum/"
+  ],
+  "reference_links": [
+    {
+      "href": "https://www.cerebrum.com.br/",
+      "label": "Cerebrum",
+      "note": "site institucional principal"
+    },
+    {
+      "href": "https://www.linkedin.com/in/marcerebrum/",
+      "label": "LinkedIn",
+      "note": "perfil profissional publico"
+    },
+    {
+      "href": "https://github.com/mozgbrasil/node-vitepress-marcelo",
+      "label": "Repositorio publico",
+      "note": "destino publico da stack editorial"
+    }
+  ]
+}
