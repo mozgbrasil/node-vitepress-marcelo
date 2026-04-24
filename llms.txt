@@ -4,16 +4,16 @@
 - Author: Marcelo
 - Role: Perfil institucional
 - Location: Brasil
-- Site: https://www.cerebrum.com.br/
-- Generated at: 2026-04-21T03:12:03.169Z
+- Site: https://mozgbrasil.github.io/node-vitepress-marcelo/
+- Generated at: 2026-04-24T20:00:22.991Z
 
 ## Summary
-Perfil editorial e institucional de Marcelo, com presença pública organizada, narrativa clara e base pronta para expansão auditável.
+Perfil editorial e institucional de Marcelo com Cerebrum, LinkedIn, perfil ao vivo e repositório público conectados por uma narrativa orientada a IA corporativa.
 
 ## Pages
-- Marcelo | Cerebrum: https://www.cerebrum.com.br//
-- Contato: https://www.cerebrum.com.br//contato
-- Perfis: https://www.cerebrum.com.br//presenca
+- Marcelo | Cerebrum: https://mozgbrasil.github.io/node-vitepress-marcelo//
+- Contato: https://mozgbrasil.github.io/node-vitepress-marcelo//contato
+- Perfis: https://mozgbrasil.github.io/node-vitepress-marcelo//presenca
 
 ## API
 - GET /api/health: Status operacional e metadados de request.
@@ -63,25 +63,27 @@ Perfil editorial e institucional de Marcelo, com presença pública organizada, 
 
 
 ## Trust Signals
-- Site institucional ativo: Referencia publica principal para apresentacao da marca e contexto institucional. [Cerebrum]
+- Site institucional ativo: Referencia publica principal para apresentacao da marca, tese de IA corporativa e pontos de conversa. [Cerebrum]
+- CNPJ e tese publica: A Cerebrum publica CNPJ 07.361.259/0001-07 e posicionamento explicito sobre IA como infraestrutura corporativa. [07.361.259/0001-07]
 - Perfil profissional publico: Camada publica de identidade profissional e relacionamento. [LinkedIn]
+- Perfil publico dedicado: Camada propria para consolidar narrativa, referencias e distribuicao editorial do perfil. [GitHub Pages]
 - Repositorio publico do perfil: Base auditavel do conteudo, pronto para versionamento e expansao. [GitHub]
 
 ## Static Exports
-- https://www.cerebrum.com.br//data/site-catalog.json
-- https://www.cerebrum.com.br//data/site-audit.json
-- https://www.cerebrum.com.br//data/site-discovery.json
-- https://www.cerebrum.com.br//data/site-portfolio.json
-- https://www.cerebrum.com.br//data/site-categories.json
-- https://www.cerebrum.com.br//data/site-capabilities.json
-- https://www.cerebrum.com.br//data/site-projects.json
-- https://www.cerebrum.com.br//data/site-stacks.json
-- https://www.cerebrum.com.br//data/site-operations.json
-- https://www.cerebrum.com.br//data/site-journeys.json
-- https://www.cerebrum.com.br//data/site-trust.json
-- https://www.cerebrum.com.br//data/site-profiles.json
-- https://www.cerebrum.com.br//llms.txt
-- https://www.cerebrum.com.br//robots.txt
+- https://mozgbrasil.github.io/node-vitepress-marcelo//data/site-catalog.json
+- https://mozgbrasil.github.io/node-vitepress-marcelo//data/site-audit.json
+- https://mozgbrasil.github.io/node-vitepress-marcelo//data/site-discovery.json
+- https://mozgbrasil.github.io/node-vitepress-marcelo//data/site-portfolio.json
+- https://mozgbrasil.github.io/node-vitepress-marcelo//data/site-categories.json
+- https://mozgbrasil.github.io/node-vitepress-marcelo//data/site-capabilities.json
+- https://mozgbrasil.github.io/node-vitepress-marcelo//data/site-projects.json
+- https://mozgbrasil.github.io/node-vitepress-marcelo//data/site-stacks.json
+- https://mozgbrasil.github.io/node-vitepress-marcelo//data/site-operations.json
+- https://mozgbrasil.github.io/node-vitepress-marcelo//data/site-journeys.json
+- https://mozgbrasil.github.io/node-vitepress-marcelo//data/site-trust.json
+- https://mozgbrasil.github.io/node-vitepress-marcelo//data/site-profiles.json
+- https://mozgbrasil.github.io/node-vitepress-marcelo//llms.txt
+- https://mozgbrasil.github.io/node-vitepress-marcelo//robots.txt
 
 ## Quality Gates
 

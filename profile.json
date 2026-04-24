@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-04-21T03:12:02.843Z",
+  "generated_at": "2026-04-24T20:00:22.643Z",
   "profile_id": "marcelo",
   "label": "Marcelo",
   "title": "Marcelo | Cerebrum",
   "headline": "Perfil institucional",
   "primary_url": "https://www.cerebrum.com.br/",
   "public_repository": "https://github.com/mozgbrasil/node-vitepress-marcelo",
-  "site_url": "https://www.cerebrum.com.br/",
+  "site_url": "https://mozgbrasil.github.io/node-vitepress-marcelo/",
   "source_urls": [
     "https://www.cerebrum.com.br/",
     "https://www.linkedin.com/in/marcerebrum/"
@@ -14,13 +14,18 @@
   "reference_links": [
     {
       "href": "https://www.cerebrum.com.br/",
-      "label": "Cerebrum",
-      "note": "site institucional principal"
+      "label": "Conhecer Cerebrum",
+      "note": "site institucional com tese de IA como infraestrutura corporativa"
     },
     {
       "href": "https://www.linkedin.com/in/marcerebrum/",
       "label": "LinkedIn",
       "note": "perfil profissional publico"
+    },
+    {
+      "href": "https://mozgbrasil.github.io/node-vitepress-marcelo/",
+      "label": "Perfil ao vivo",
+      "note": "superficie publica dedicada do perfil"
     },
     {
       "href": "https://github.com/mozgbrasil/node-vitepress-marcelo",

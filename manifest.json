@@ -1,7 +1,7 @@
 {
   "name": "Marcelo | Cerebrum",
   "short_name": "Cerebrum",
-  "description": "Perfil editorial e institucional de Marcelo, com presença pública organizada, narrativa clara e base pronta para expansão auditável.",
+  "description": "Perfil editorial e institucional de Marcelo com Cerebrum, LinkedIn, perfil ao vivo e repositório público conectados por uma narrativa orientada a IA corporativa.",
   "lang": "pt-BR",
   "dir": "ltr",
   "start_url": "/node-vitepress-marcelo/",
@@ -9,11 +9,7 @@
   "display": "standalone",
   "background_color": "#09101b",
   "theme_color": "#0f172a",
-  "categories": [
-    "technology",
-    "business",
-    "productivity"
-  ],
+  "categories": ["technology", "business", "productivity"],
   "icons": [
     {
       "src": "/node-vitepress-marcelo/logo-mini.svg",

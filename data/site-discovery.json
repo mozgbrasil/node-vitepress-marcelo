@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-04-21T03:12:03.169Z",
+  "generated_at": "2026-04-24T20:00:22.991Z",
   "filters_applied": {},
-  "total_items": 39,
-  "total_available_items": 39,
+  "total_items": 45,
+  "total_available_items": 45,
   "kinds": [
     { "label": "api", "count": 21 },
-    { "label": "presence", "count": 6 },
-    { "label": "contact", "count": 3 },
-    { "label": "page", "count": 3 },
-    { "label": "surface", "count": 3 },
-    { "label": "trust", "count": 3 }
+    { "label": "presence", "count": 8 },
+    { "label": "trust", "count": 5 },
+    { "label": "contact", "count": 4 },
+    { "label": "surface", "count": 4 },
+    { "label": "page", "count": 3 }
   ],
   "items": [
     {
@@ -211,6 +211,15 @@
       "meta": "Contato principal"
     },
     {
+      "id": "contact-perfil-ao-vivo",
+      "kind": "contact",
+      "title": "Perfil ao vivo",
+      "description": "superficie publica dedicada",
+      "href": "https://mozgbrasil.github.io/node-vitepress-marcelo/",
+      "tags": ["contato", "canal", "perfil-ao-vivo"],
+      "meta": "Contato principal"
+    },
+    {
       "id": "contact-repositorio-publico",
       "kind": "contact",
       "title": "Repositorio publico",
@@ -223,7 +232,7 @@
       "id": "contact-site-institucional",
       "kind": "contact",
       "title": "Site institucional",
-      "description": "camada principal de apresentacao publica",
+      "description": "camada principal sobre IA corporativa e consultoria estrategica",
       "href": "https://www.cerebrum.com.br/",
       "tags": ["contato", "canal", "site-institucional"],
       "meta": "Contato principal"
@@ -241,7 +250,7 @@
       "id": "page-marcelo-cerebrum",
       "kind": "page",
       "title": "Marcelo | Cerebrum",
-      "description": "Perfil editorial e institucional de Marcelo, com presença pública organizada, narrativa clara e base pronta para expansão auditável.",
+      "description": "Perfil editorial e institucional de Marcelo com Cerebrum, LinkedIn, perfil ao vivo e repositório público conectados por uma narrativa orientada a IA corporativa.",
       "href": "/",
       "tags": ["pagina", "site", "/"],
       "meta": "Navegacao principal"
@@ -271,6 +280,15 @@
       "description": "Perfil institucional no grupo Base publica.",
       "href": "https://www.linkedin.com/in/marcerebrum/",
       "tags": ["brand", "presenca", "base-publica", "linkedin"],
+      "meta": "@marcelo"
+    },
+    {
+      "id": "presence-marcelo-base-publica-perfil-ao-vivo",
+      "kind": "presence",
+      "title": "marcelo · Base publica · Perfil ao vivo",
+      "description": "Perfil institucional no grupo Base publica.",
+      "href": "https://mozgbrasil.github.io/node-vitepress-marcelo/",
+      "tags": ["brand", "presenca", "base-publica", "perfil-ao-vivo"],
       "meta": "@marcelo"
     },
     {
@@ -306,6 +324,15 @@
       "meta": "@marcelo"
     },
     {
+      "id": "presence-marcelo-perfil-ao-vivo",
+      "kind": "presence",
+      "title": "marcelo · Perfil ao vivo",
+      "description": "superficie publica dedicada",
+      "href": "https://mozgbrasil.github.io/node-vitepress-marcelo/",
+      "tags": ["brand", "presenca", "perfil-ao-vivo"],
+      "meta": "@marcelo"
+    },
+    {
       "id": "presence-marcelo-repositorio-publico",
       "kind": "presence",
       "title": "marcelo · Repositorio publico",
@@ -313,6 +340,15 @@
       "href": "https://github.com/mozgbrasil/node-vitepress-marcelo",
       "tags": ["brand", "presenca", "repositorio-publico"],
       "meta": "@marcelo"
+    },
+    {
+      "id": "surface-perfil-ao-vivo",
+      "kind": "surface",
+      "title": "Perfil ao vivo",
+      "description": "Superficie publica dedicada para consolidar contexto, referencias e continuidade editorial.",
+      "href": "https://mozgbrasil.github.io/node-vitepress-marcelo/",
+      "tags": ["superficie", "publico", "distribuicao"],
+      "meta": "Canal publico"
     },
     {
       "id": "surface-perfil-profissional",
@@ -336,10 +372,19 @@
       "id": "surface-site-institucional",
       "kind": "surface",
       "title": "Site institucional",
-      "description": "A superficie principal da Cerebrum concentra apresentacao, contexto e descoberta publica.",
+      "description": "A superficie principal da Cerebrum concentra tese AI-First, consultoria estrategica e descoberta publica.",
       "href": "https://www.cerebrum.com.br/",
       "tags": ["superficie", "publico", "distribuicao"],
       "meta": "Canal publico"
+    },
+    {
+      "id": "trust-cnpj-e-tese-publica",
+      "kind": "trust",
+      "title": "CNPJ e tese publica",
+      "description": "A Cerebrum publica CNPJ 07.361.259/0001-07 e posicionamento explicito sobre IA como infraestrutura corporativa.",
+      "href": "https://www.cerebrum.com.br",
+      "tags": ["confianca", "institucional", "cnpj-e-tese-publica"],
+      "meta": "07.361.259/0001-07"
     },
     {
       "id": "trust-perfil-profissional-publico",
@@ -349,6 +394,15 @@
       "href": "https://www.linkedin.com/in/marcerebrum",
       "tags": ["confianca", "institucional", "perfil-profissional-publico"],
       "meta": "LinkedIn"
+    },
+    {
+      "id": "trust-perfil-publico-dedicado",
+      "kind": "trust",
+      "title": "Perfil publico dedicado",
+      "description": "Camada propria para consolidar narrativa, referencias e distribuicao editorial do perfil.",
+      "href": "https://mozgbrasil.github.io/node-vitepress-marcelo",
+      "tags": ["confianca", "institucional", "perfil-publico-dedicado"],
+      "meta": "GitHub Pages"
     },
     {
       "id": "trust-repositorio-publico-do-perfil",
@@ -363,7 +417,7 @@
       "id": "trust-site-institucional-ativo",
       "kind": "trust",
       "title": "Site institucional ativo",
-      "description": "Referencia publica principal para apresentacao da marca e contexto institucional.",
+      "description": "Referencia publica principal para apresentacao da marca, tese de IA corporativa e pontos de conversa.",
       "href": "https://www.cerebrum.com.br",
       "tags": ["confianca", "institucional", "site-institucional-ativo"],
       "meta": "Cerebrum"

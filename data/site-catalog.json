@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-04-21T03:12:03.169Z",
+  "generated_at": "2026-04-24T20:00:22.991Z",
   "active_profile": "marcelo",
   "catalog": {
     "site": {
       "title": "Marcelo | Cerebrum",
-      "description": "Perfil editorial e institucional de Marcelo, com presença pública organizada, narrativa clara e base pronta para expansão auditável.",
+      "description": "Perfil editorial e institucional de Marcelo com Cerebrum, LinkedIn, perfil ao vivo e repositório público conectados por uma narrativa orientada a IA corporativa.",
       "author": "Marcelo",
       "company": "Cerebrum",
       "role": "Perfil institucional",
       "location": "Brasil",
-      "siteUrl": "https://www.cerebrum.com.br/",
-      "socialImage": "https://www.cerebrum.com.br/og.jpg",
+      "siteUrl": "https://mozgbrasil.github.io/node-vitepress-marcelo/",
+      "socialImage": "https://mozgbrasil.github.io/node-vitepress-marcelo/og.jpg",
       "email": "",
       "phone": "",
       "whatsapp": "",
@@ -20,7 +20,7 @@
       "githubSponsors": "",
       "googleDevelopers": "",
       "openProfile": "",
-      "curriculum": "https://github.com/mozgbrasil/node-vitepress-marcelo",
+      "curriculum": "https://www.linkedin.com/in/marcerebrum/",
       "githubPages": "",
       "profileImage": "/logo-mini.svg",
       "institutionLogo": "",
@@ -38,6 +38,8 @@
       "keywords": [
         "Marcelo",
         "Cerebrum",
+        "IA corporativa",
+        "AI-First",
         "perfil institucional",
         "presenca publica",
         "documentacao auditavel"
@@ -46,12 +48,15 @@
         "@context": "https://schema.org",
         "@type": "Person",
         "name": "Marcelo",
-        "url": "https://www.cerebrum.com.br/",
+        "url": "https://mozgbrasil.github.io/node-vitepress-marcelo/",
         "jobTitle": "Perfil institucional",
         "worksFor": { "@type": "Organization", "name": "Cerebrum" },
+        "description": "Perfil editorial e institucional de Marcelo com Cerebrum, LinkedIn, perfil ao vivo e repositório público conectados por uma narrativa orientada a IA corporativa.",
         "knowsAbout": [
           "Marcelo",
           "Cerebrum",
+          "IA corporativa",
+          "AI-First",
           "perfil institucional",
           "presenca publica",
           "documentacao auditavel"
@@ -59,6 +64,7 @@
         "sameAs": [
           "https://github.com/mozgbrasil/node-vitepress-marcelo",
           "https://www.linkedin.com/in/marcerebrum/",
+          "https://mozgbrasil.github.io/node-vitepress-marcelo/",
           "https://www.cerebrum.com.br/"
         ]
       },
@@ -66,10 +72,10 @@
       "businessEntities": [
         {
           "name": "Cerebrum",
-          "cnpj": "",
+          "cnpj": "07.361.259/0001-07",
           "website": "https://www.cerebrum.com.br/",
           "role": "superficie institucional principal",
-          "note": "Ponto publico principal para apresentacao institucional."
+          "note": "Ponto publico principal para apresentacao institucional, consultoria estrategica e implementacao de IA corporativa."
         },
         {
           "name": "node-vitepress-marcelo",
@@ -82,14 +88,14 @@
     },
     "hero": {
       "name": "Marcelo",
-      "text": "Perfil institucional da Cerebrum com base editorial auditavel",
-      "tagline": "Superficie publica organizada para apresentar contexto, referencias e pontos de contato com simplicidade operacional."
+      "text": "Perfil institucional da Cerebrum com IA corporativa, LinkedIn e base auditavel",
+      "tagline": "Cerebrum, perfil ao vivo, LinkedIn e repositório público organizam contexto, confiança e continuidade editorial com mais precisão."
     },
     "pages": [
       {
         "path": "/",
         "title": "Marcelo | Cerebrum",
-        "description": "Perfil editorial e institucional de Marcelo, com presença pública organizada, narrativa clara e base pronta para expansão auditável."
+        "description": "Perfil editorial e institucional de Marcelo com Cerebrum, LinkedIn, perfil ao vivo e repositório público conectados por uma narrativa orientada a IA corporativa."
       },
       {
         "path": "/contato",
@@ -121,9 +127,9 @@
       }
     ],
     "experienceHighlights": [
-      "Superficie institucional organizada para leitura rapida e manutencao simples.",
-      "Referencias publicas centralizadas entre site principal, LinkedIn e repositorio publico.",
-      "Base editorial pronta para SEO, distribuicao e auditoria operacional."
+      "Superficie institucional organizada para leitura rapida e narrativa clara sobre IA corporativa.",
+      "Referencias publicas centralizadas entre site principal, LinkedIn, perfil ao vivo e repositorio publico.",
+      "Base editorial pronta para SEO, distribuicao, confianca e auditoria operacional."
     ],
     "flagshipProjects": [],
     "portfolioEntries": [],
@@ -136,13 +142,18 @@
     "publishedSurfaces": [
       {
         "title": "Site institucional",
-        "description": "A superficie principal da Cerebrum concentra apresentacao, contexto e descoberta publica.",
+        "description": "A superficie principal da Cerebrum concentra tese AI-First, consultoria estrategica e descoberta publica.",
         "href": "https://www.cerebrum.com.br/"
       },
       {
         "title": "Perfil profissional",
         "description": "O LinkedIn concentra a trilha profissional publica e o networking do perfil.",
         "href": "https://www.linkedin.com/in/marcerebrum/"
+      },
+      {
+        "title": "Perfil ao vivo",
+        "description": "Superficie publica dedicada para consolidar contexto, referencias e continuidade editorial.",
+        "href": "https://mozgbrasil.github.io/node-vitepress-marcelo/"
       },
       {
         "title": "Repositorio publico",
@@ -154,15 +165,27 @@
     "trustSignals": [
       {
         "title": "Site institucional ativo",
-        "description": "Referencia publica principal para apresentacao da marca e contexto institucional.",
+        "description": "Referencia publica principal para apresentacao da marca, tese de IA corporativa e pontos de conversa.",
         "href": "https://www.cerebrum.com.br/",
         "value": "Cerebrum"
+      },
+      {
+        "title": "CNPJ e tese publica",
+        "description": "A Cerebrum publica CNPJ 07.361.259/0001-07 e posicionamento explicito sobre IA como infraestrutura corporativa.",
+        "href": "https://www.cerebrum.com.br/",
+        "value": "07.361.259/0001-07"
       },
       {
         "title": "Perfil profissional publico",
         "description": "Camada publica de identidade profissional e relacionamento.",
         "href": "https://www.linkedin.com/in/marcerebrum/",
         "value": "LinkedIn"
+      },
+      {
+        "title": "Perfil publico dedicado",
+        "description": "Camada propria para consolidar narrativa, referencias e distribuicao editorial do perfil.",
+        "href": "https://mozgbrasil.github.io/node-vitepress-marcelo/",
+        "value": "GitHub Pages"
       },
       {
         "title": "Repositorio publico do perfil",
@@ -284,12 +307,17 @@
       {
         "href": "https://www.cerebrum.com.br/",
         "label": "Site institucional",
-        "note": "camada principal de apresentacao publica"
+        "note": "camada principal sobre IA corporativa e consultoria estrategica"
       },
       {
         "href": "https://www.linkedin.com/in/marcerebrum/",
         "label": "LinkedIn",
         "note": "perfil profissional publico"
+      },
+      {
+        "href": "https://mozgbrasil.github.io/node-vitepress-marcelo/",
+        "label": "Perfil ao vivo",
+        "note": "superficie publica dedicada"
       },
       {
         "href": "https://github.com/mozgbrasil/node-vitepress-marcelo",
@@ -303,7 +331,7 @@
         "label": "Perfil institucional",
         "title": "marcelo",
         "handle": "@marcelo",
-        "summary": "Presenca institucional com base em site principal, LinkedIn e repositorio publico do perfil.",
+        "summary": "Presenca institucional com base em Cerebrum, LinkedIn, perfil ao vivo e repositorio publico do perfil.",
         "image": "/logo-mini.svg",
         "imageAlt": "Marca institucional do perfil Marcelo",
         "imageNote": "Superficie institucional de Marcelo e Cerebrum",
@@ -319,6 +347,11 @@
             "note": "perfil profissional"
           },
           {
+            "href": "https://mozgbrasil.github.io/node-vitepress-marcelo/",
+            "label": "Perfil ao vivo",
+            "note": "superficie publica dedicada"
+          },
+          {
             "href": "https://github.com/mozgbrasil/node-vitepress-marcelo",
             "label": "Repositorio publico",
             "note": "publicacao do perfil"
@@ -332,6 +365,10 @@
               {
                 "href": "https://www.linkedin.com/in/marcerebrum/",
                 "label": "LinkedIn"
+              },
+              {
+                "href": "https://mozgbrasil.github.io/node-vitepress-marcelo/",
+                "label": "Perfil ao vivo"
               }
             ]
           },
@@ -362,8 +399,8 @@
       "referenceLinks": [
         {
           "href": "https://www.cerebrum.com.br/",
-          "label": "Cerebrum",
-          "note": "site institucional principal"
+          "label": "Conhecer Cerebrum",
+          "note": "site institucional com tese de IA como infraestrutura corporativa"
         },
         {
           "href": "https://www.linkedin.com/in/marcerebrum/",
@@ -371,40 +408,39 @@
           "note": "perfil profissional publico"
         },
         {
+          "href": "https://mozgbrasil.github.io/node-vitepress-marcelo/",
+          "label": "Perfil ao vivo",
+          "note": "superficie publica dedicada do perfil"
+        },
+        {
           "href": "https://github.com/mozgbrasil/node-vitepress-marcelo",
           "label": "Repositorio publico",
           "note": "destino publico da stack editorial"
         }
       ],
+      "schemaType": "Person",
       "heroMetrics": [
-        {
-          "value": "Perfil vivo",
-          "label": "com narrativa institucional clara"
-        },
-        { "value": "Base publica", "label": "pronta para evolucao editorial" },
-        { "value": "Repositorio publico", "label": "como superficie auditavel" }
+        { "value": "AI-First", "label": "como tese central da Cerebrum" },
+        { "value": "10x volume", "label": "com escalabilidade inteligente" },
+        { "value": "CNPJ ativo", "label": "07.361.259/0001-07" }
       ],
       "heroMetricsEn": [
-        {
-          "value": "Live profile",
-          "label": "with a clear institutional narrative"
-        },
-        {
-          "value": "Public foundation",
-          "label": "ready for editorial expansion"
-        },
-        { "value": "Public repository", "label": "as an auditable surface" }
-      ]
+        { "value": "AI-First", "label": "as the central Cerebrum thesis" },
+        { "value": "10x volume", "label": "through intelligent scalability" },
+        { "value": "Active tax id", "label": "07.361.259/0001-07" }
+      ],
+      "navLinks": [],
+      "pages": []
     }
   },
   "audit": {
-    "generated_at": "2026-04-21T03:12:03.169Z",
+    "generated_at": "2026-04-24T20:00:22.991Z",
     "company": "Cerebrum",
-    "site_url": "https://www.cerebrum.com.br/",
+    "site_url": "https://mozgbrasil.github.io/node-vitepress-marcelo/",
     "counts": {
       "pages": 3,
       "api_routes": 21,
-      "discovery_items": 39,
+      "discovery_items": 45,
       "portfolio_entries": 0,
       "project_dossiers": 0,
       "category_profiles": 0,
@@ -413,14 +449,14 @@
       "stack_technologies": 0,
       "operation_dossiers": 0,
       "public_journeys": 0,
-      "trust_signals": 3,
+      "trust_signals": 5,
       "specialties": 0,
       "projects": 0,
-      "surfaces": 3,
+      "surfaces": 4,
       "presence_profiles": 1,
       "presence_groups": 2,
-      "presence_links": 6,
-      "contact_links": 3
+      "presence_links": 8,
+      "contact_links": 4
     },
     "pages": ["/", "/contato", "/presenca"],
     "api_paths": [
