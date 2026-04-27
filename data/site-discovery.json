@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-04-24T20:00:22.991Z",
+  "generated_at": "2026-04-27T07:55:52.657Z",
   "filters_applied": {},
-  "total_items": 45,
-  "total_available_items": 45,
+  "total_items": 40,
+  "total_available_items": 40,
   "kinds": [
     { "label": "api", "count": 21 },
-    { "label": "presence", "count": 8 },
-    { "label": "trust", "count": 5 },
-    { "label": "contact", "count": 4 },
-    { "label": "surface", "count": 4 },
-    { "label": "page", "count": 3 }
+    { "label": "presence", "count": 6 },
+    { "label": "trust", "count": 4 },
+    { "label": "contact", "count": 3 },
+    { "label": "page", "count": 3 },
+    { "label": "surface", "count": 3 }
   ],
   "items": [
     {
@@ -220,15 +220,6 @@
       "meta": "Contato principal"
     },
     {
-      "id": "contact-repositorio-publico",
-      "kind": "contact",
-      "title": "Repositorio publico",
-      "description": "destino de publicacao do perfil",
-      "href": "https://github.com/mozgbrasil/node-vitepress-marcelo",
-      "tags": ["contato", "canal", "repositorio-publico"],
-      "meta": "Contato principal"
-    },
-    {
       "id": "contact-site-institucional",
       "kind": "contact",
       "title": "Site institucional",
@@ -241,7 +232,7 @@
       "id": "page-contato",
       "kind": "page",
       "title": "Contato",
-      "description": "Canais públicos e pontos principais de contato de Marcelo.",
+      "description": "Canais públicos e pontos principais de contato de Marcelo Amorim.",
       "href": "/contato",
       "tags": ["pagina", "site", "/contato"],
       "meta": "Navegacao principal"
@@ -250,7 +241,7 @@
       "id": "page-marcelo-cerebrum",
       "kind": "page",
       "title": "Marcelo | Cerebrum",
-      "description": "Perfil editorial e institucional de Marcelo com Cerebrum, LinkedIn, perfil ao vivo e repositório público conectados por uma narrativa orientada a IA corporativa.",
+      "description": "Perfil institucional de Marcelo Amorim com Cerebrum, LinkedIn e presença pública dedicada para leitura clara e identidade própria.",
       "href": "/",
       "tags": ["pagina", "site", "/"],
       "meta": "Navegacao principal"
@@ -259,7 +250,7 @@
       "id": "page-perfis",
       "kind": "page",
       "title": "Perfis",
-      "description": "Superfícies públicas e referências principais de Marcelo.",
+      "description": "Superfícies públicas e referências principais de Marcelo Amorim.",
       "href": "/presenca",
       "tags": ["pagina", "site", "/presenca"],
       "meta": "Navegacao principal"
@@ -301,20 +292,6 @@
       "meta": "@marcelo"
     },
     {
-      "id": "presence-marcelo-distribuicao-editorial-repositorio-publico",
-      "kind": "presence",
-      "title": "marcelo · Distribuicao editorial · Repositorio publico",
-      "description": "Perfil institucional no grupo Distribuicao editorial.",
-      "href": "https://github.com/mozgbrasil/node-vitepress-marcelo",
-      "tags": [
-        "brand",
-        "presenca",
-        "distribuicao-editorial",
-        "repositorio-publico"
-      ],
-      "meta": "@marcelo"
-    },
-    {
       "id": "presence-marcelo-linkedin",
       "kind": "presence",
       "title": "marcelo · LinkedIn",
@@ -333,15 +310,6 @@
       "meta": "@marcelo"
     },
     {
-      "id": "presence-marcelo-repositorio-publico",
-      "kind": "presence",
-      "title": "marcelo · Repositorio publico",
-      "description": "publicacao do perfil",
-      "href": "https://github.com/mozgbrasil/node-vitepress-marcelo",
-      "tags": ["brand", "presenca", "repositorio-publico"],
-      "meta": "@marcelo"
-    },
-    {
       "id": "surface-perfil-ao-vivo",
       "kind": "surface",
       "title": "Perfil ao vivo",
@@ -356,15 +324,6 @@
       "title": "Perfil profissional",
       "description": "O LinkedIn concentra a trilha profissional publica e o networking do perfil.",
       "href": "https://www.linkedin.com/in/marcerebrum/",
-      "tags": ["superficie", "publico", "distribuicao"],
-      "meta": "Canal publico"
-    },
-    {
-      "id": "surface-repositorio-publico",
-      "kind": "surface",
-      "title": "Repositorio publico",
-      "description": "Repositorio de publicacao do perfil com base editorial pronta para evolucao.",
-      "href": "https://github.com/mozgbrasil/node-vitepress-marcelo",
       "tags": ["superficie", "publico", "distribuicao"],
       "meta": "Canal publico"
     },
@@ -403,15 +362,6 @@
       "href": "https://mozgbrasil.github.io/node-vitepress-marcelo",
       "tags": ["confianca", "institucional", "perfil-publico-dedicado"],
       "meta": "GitHub Pages"
-    },
-    {
-      "id": "trust-repositorio-publico-do-perfil",
-      "kind": "trust",
-      "title": "Repositorio publico do perfil",
-      "description": "Base auditavel do conteudo, pronto para versionamento e expansao.",
-      "href": "https://github.com/mozgbrasil/node-vitepress-marcelo",
-      "tags": ["confianca", "institucional", "repositorio-publico-do-perfil"],
-      "meta": "GitHub"
     },
     {
       "id": "trust-site-institucional-ativo",

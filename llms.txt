@@ -1,14 +1,14 @@
-# Marcelo | Cerebrum
+# Marcelo Amorim | Cerebrum
 
 - Company: Cerebrum
-- Author: Marcelo
+- Author: Marcelo Amorim
 - Role: Perfil institucional
 - Location: Brasil
 - Site: https://mozgbrasil.github.io/node-vitepress-marcelo/
-- Generated at: 2026-04-24T20:00:22.991Z
+- Generated at: 2026-04-27T07:55:52.657Z
 
 ## Summary
-Perfil editorial e institucional de Marcelo com Cerebrum, LinkedIn, perfil ao vivo e repositório público conectados por uma narrativa orientada a IA corporativa.
+Perfil institucional de Marcelo Amorim com Cerebrum, LinkedIn e presença pública dedicada para leitura clara e identidade própria.
 
 ## Pages
 - Marcelo | Cerebrum: https://mozgbrasil.github.io/node-vitepress-marcelo//
@@ -67,7 +67,6 @@ Perfil editorial e institucional de Marcelo com Cerebrum, LinkedIn, perfil ao vi
 - CNPJ e tese publica: A Cerebrum publica CNPJ 07.361.259/0001-07 e posicionamento explicito sobre IA como infraestrutura corporativa. [07.361.259/0001-07]
 - Perfil profissional publico: Camada publica de identidade profissional e relacionamento. [LinkedIn]
 - Perfil publico dedicado: Camada propria para consolidar narrativa, referencias e distribuicao editorial do perfil. [GitHub Pages]
-- Repositorio publico do perfil: Base auditavel do conteudo, pronto para versionamento e expansao. [GitHub]
 
 ## Static Exports
 - https://mozgbrasil.github.io/node-vitepress-marcelo//data/site-catalog.json

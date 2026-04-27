@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-04-24T20:00:22.991Z",
+  "generated_at": "2026-04-27T07:55:52.657Z",
   "active_profile": "marcelo",
   "catalog": {
     "site": {
-      "title": "Marcelo | Cerebrum",
-      "description": "Perfil editorial e institucional de Marcelo com Cerebrum, LinkedIn, perfil ao vivo e repositório público conectados por uma narrativa orientada a IA corporativa.",
-      "author": "Marcelo",
+      "title": "Marcelo Amorim | Cerebrum",
+      "description": "Perfil institucional de Marcelo Amorim com Cerebrum, LinkedIn e presença pública dedicada para leitura clara e identidade própria.",
+      "author": "Marcelo Amorim",
       "company": "Cerebrum",
       "role": "Perfil institucional",
       "location": "Brasil",
       "siteUrl": "https://mozgbrasil.github.io/node-vitepress-marcelo/",
-      "socialImage": "https://mozgbrasil.github.io/node-vitepress-marcelo/og.jpg",
+      "socialImage": "https://mozgbrasil.github.io/node-vitepress-marcelo/assets/profile-branding/cerebrum-logo.png",
       "email": "",
       "phone": "",
       "whatsapp": "",
       "linkedIn": "https://www.linkedin.com/in/marcerebrum/",
-      "github": "https://github.com/mozgbrasil/node-vitepress-marcelo",
+      "github": "",
       "bluesky": "",
       "githubSponsors": "",
       "googleDevelopers": "",
       "openProfile": "",
       "curriculum": "https://www.linkedin.com/in/marcerebrum/",
       "githubPages": "",
-      "profileImage": "/logo-mini.svg",
-      "institutionLogo": "",
+      "profileImage": "/assets/profile-branding/marcelo.jpeg",
+      "institutionLogo": "/assets/profile-branding/cerebrum-logo.png",
       "mapsUrl": "",
       "mapsEmbedUrl": "",
       "address": {
@@ -47,11 +47,11 @@
       "structuredData": {
         "@context": "https://schema.org",
         "@type": "Person",
-        "name": "Marcelo",
+        "name": "Marcelo Amorim",
         "url": "https://mozgbrasil.github.io/node-vitepress-marcelo/",
         "jobTitle": "Perfil institucional",
         "worksFor": { "@type": "Organization", "name": "Cerebrum" },
-        "description": "Perfil editorial e institucional de Marcelo com Cerebrum, LinkedIn, perfil ao vivo e repositório público conectados por uma narrativa orientada a IA corporativa.",
+        "description": "Perfil institucional de Marcelo Amorim com Cerebrum, LinkedIn e presença pública dedicada para leitura clara e identidade própria.",
         "knowsAbout": [
           "Marcelo",
           "Cerebrum",
@@ -62,9 +62,9 @@
           "documentacao auditavel"
         ],
         "sameAs": [
-          "https://github.com/mozgbrasil/node-vitepress-marcelo",
           "https://www.linkedin.com/in/marcerebrum/",
           "https://mozgbrasil.github.io/node-vitepress-marcelo/",
+          "https://github.com/mozgbrasil/node-vitepress-marcelo",
           "https://www.cerebrum.com.br/"
         ]
       },
@@ -76,36 +76,29 @@
           "website": "https://www.cerebrum.com.br/",
           "role": "superficie institucional principal",
           "note": "Ponto publico principal para apresentacao institucional, consultoria estrategica e implementacao de IA corporativa."
-        },
-        {
-          "name": "node-vitepress-marcelo",
-          "cnpj": "",
-          "website": "https://github.com/mozgbrasil/node-vitepress-marcelo",
-          "role": "repositorio publico de distribuicao",
-          "note": "Destino publico da superficie editorial multi-perfil."
         }
       ]
     },
     "hero": {
-      "name": "Marcelo",
-      "text": "Perfil institucional da Cerebrum com IA corporativa, LinkedIn e base auditavel",
-      "tagline": "Cerebrum, perfil ao vivo, LinkedIn e repositório público organizam contexto, confiança e continuidade editorial com mais precisão."
+      "name": "Marcelo Amorim",
+      "text": "Perfil institucional da Cerebrum com LinkedIn, identidade própria e presença pública dedicada",
+      "tagline": "Cerebrum, LinkedIn e perfil ao vivo organizam contexto, confiança e continuidade editorial sem ruído institucional."
     },
     "pages": [
       {
         "path": "/",
         "title": "Marcelo | Cerebrum",
-        "description": "Perfil editorial e institucional de Marcelo com Cerebrum, LinkedIn, perfil ao vivo e repositório público conectados por uma narrativa orientada a IA corporativa."
+        "description": "Perfil institucional de Marcelo Amorim com Cerebrum, LinkedIn e presença pública dedicada para leitura clara e identidade própria."
       },
       {
         "path": "/contato",
         "title": "Contato",
-        "description": "Canais públicos e pontos principais de contato de Marcelo."
+        "description": "Canais públicos e pontos principais de contato de Marcelo Amorim."
       },
       {
         "path": "/presenca",
         "title": "Perfis",
-        "description": "Superfícies públicas e referências principais de Marcelo."
+        "description": "Superfícies públicas e referências principais de Marcelo Amorim."
       }
     ],
     "specialties": [],
@@ -128,7 +121,7 @@
     ],
     "experienceHighlights": [
       "Superficie institucional organizada para leitura rapida e narrativa clara sobre IA corporativa.",
-      "Referencias publicas centralizadas entre site principal, LinkedIn, perfil ao vivo e repositorio publico.",
+      "Referencias publicas centralizadas entre site principal, LinkedIn e perfil ao vivo.",
       "Base editorial pronta para SEO, distribuicao, confianca e auditoria operacional."
     ],
     "flagshipProjects": [],
@@ -154,11 +147,6 @@
         "title": "Perfil ao vivo",
         "description": "Superficie publica dedicada para consolidar contexto, referencias e continuidade editorial.",
         "href": "https://mozgbrasil.github.io/node-vitepress-marcelo/"
-      },
-      {
-        "title": "Repositorio publico",
-        "description": "Repositorio de publicacao do perfil com base editorial pronta para evolucao.",
-        "href": "https://github.com/mozgbrasil/node-vitepress-marcelo"
       }
     ],
     "publicJourneys": [],
@@ -186,12 +174,6 @@
         "description": "Camada propria para consolidar narrativa, referencias e distribuicao editorial do perfil.",
         "href": "https://mozgbrasil.github.io/node-vitepress-marcelo/",
         "value": "GitHub Pages"
-      },
-      {
-        "title": "Repositorio publico do perfil",
-        "description": "Base auditavel do conteudo, pronto para versionamento e expansao.",
-        "href": "https://github.com/mozgbrasil/node-vitepress-marcelo",
-        "value": "GitHub"
       }
     ],
     "operationalPillars": [],
@@ -318,11 +300,6 @@
         "href": "https://mozgbrasil.github.io/node-vitepress-marcelo/",
         "label": "Perfil ao vivo",
         "note": "superficie publica dedicada"
-      },
-      {
-        "href": "https://github.com/mozgbrasil/node-vitepress-marcelo",
-        "label": "Repositorio publico",
-        "note": "destino de publicacao do perfil"
       }
     ],
     "presenceProfiles": [
@@ -331,8 +308,8 @@
         "label": "Perfil institucional",
         "title": "marcelo",
         "handle": "@marcelo",
-        "summary": "Presenca institucional com base em Cerebrum, LinkedIn, perfil ao vivo e repositorio publico do perfil.",
-        "image": "/logo-mini.svg",
+        "summary": "Presenca institucional com base em Cerebrum, LinkedIn e perfil ao vivo.",
+        "image": "/assets/profile-branding/marcelo.jpeg",
         "imageAlt": "Marca institucional do perfil Marcelo",
         "imageNote": "Superficie institucional de Marcelo e Cerebrum",
         "primaryLinks": [
@@ -350,11 +327,6 @@
             "href": "https://mozgbrasil.github.io/node-vitepress-marcelo/",
             "label": "Perfil ao vivo",
             "note": "superficie publica dedicada"
-          },
-          {
-            "href": "https://github.com/mozgbrasil/node-vitepress-marcelo",
-            "label": "Repositorio publico",
-            "note": "publicacao do perfil"
           }
         ],
         "groups": [
@@ -369,15 +341,6 @@
               {
                 "href": "https://mozgbrasil.github.io/node-vitepress-marcelo/",
                 "label": "Perfil ao vivo"
-              }
-            ]
-          },
-          {
-            "title": "Distribuicao editorial",
-            "links": [
-              {
-                "href": "https://github.com/mozgbrasil/node-vitepress-marcelo",
-                "label": "Repositorio publico"
               }
             ]
           }
@@ -411,11 +374,6 @@
           "href": "https://mozgbrasil.github.io/node-vitepress-marcelo/",
           "label": "Perfil ao vivo",
           "note": "superficie publica dedicada do perfil"
-        },
-        {
-          "href": "https://github.com/mozgbrasil/node-vitepress-marcelo",
-          "label": "Repositorio publico",
-          "note": "destino publico da stack editorial"
         }
       ],
       "schemaType": "Person",
@@ -434,13 +392,13 @@
     }
   },
   "audit": {
-    "generated_at": "2026-04-24T20:00:22.991Z",
+    "generated_at": "2026-04-27T07:55:52.657Z",
     "company": "Cerebrum",
     "site_url": "https://mozgbrasil.github.io/node-vitepress-marcelo/",
     "counts": {
       "pages": 3,
       "api_routes": 21,
-      "discovery_items": 45,
+      "discovery_items": 40,
       "portfolio_entries": 0,
       "project_dossiers": 0,
       "category_profiles": 0,
@@ -449,14 +407,14 @@
       "stack_technologies": 0,
       "operation_dossiers": 0,
       "public_journeys": 0,
-      "trust_signals": 5,
+      "trust_signals": 4,
       "specialties": 0,
       "projects": 0,
-      "surfaces": 4,
+      "surfaces": 3,
       "presence_profiles": 1,
-      "presence_groups": 2,
-      "presence_links": 8,
-      "contact_links": 4
+      "presence_groups": 1,
+      "presence_links": 6,
+      "contact_links": 3
     },
     "pages": ["/", "/contato", "/presenca"],
     "api_paths": [

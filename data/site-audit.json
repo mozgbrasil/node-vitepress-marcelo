@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-24T22:30:44.007Z",
+  "generated_at": "2026-04-27T07:55:52.657Z",
   "company": "Cerebrum",
   "site_url": "https://mozgbrasil.github.io/node-vitepress-marcelo/",
   "counts": {
     "pages": 3,
     "api_routes": 21,
-    "discovery_items": 45,
+    "discovery_items": 40,
     "portfolio_entries": 0,
     "project_dossiers": 0,
     "category_profiles": 0,
@@ -14,14 +14,14 @@
     "stack_technologies": 0,
     "operation_dossiers": 0,
     "public_journeys": 0,
-    "trust_signals": 5,
+    "trust_signals": 4,
     "specialties": 0,
     "projects": 0,
-    "surfaces": 4,
+    "surfaces": 3,
     "presence_profiles": 1,
-    "presence_groups": 2,
-    "presence_links": 8,
-    "contact_links": 4
+    "presence_groups": 1,
+    "presence_links": 6,
+    "contact_links": 3
   },
   "pages": ["/", "/contato", "/presenca"],
   "api_paths": [

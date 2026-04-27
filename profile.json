@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T20:00:22.643Z",
+  "generated_at": "2026-04-27T07:55:52.324Z",
   "profile_id": "marcelo",
   "label": "Marcelo",
   "title": "Marcelo | Cerebrum",
@@ -26,11 +26,6 @@
       "href": "https://mozgbrasil.github.io/node-vitepress-marcelo/",
       "label": "Perfil ao vivo",
       "note": "superficie publica dedicada do perfil"
-    },
-    {
-      "href": "https://github.com/mozgbrasil/node-vitepress-marcelo",
-      "label": "Repositorio publico",
-      "note": "destino publico da stack editorial"
     }
   ]
 }
