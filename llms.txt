@@ -5,7 +5,7 @@
 - Role: Perfil institucional
 - Location: Brasil
 - Site: https://mozgbrasil.github.io/node-vitepress-marcelo/
-- Generated at: 2026-04-27T07:55:52.657Z
+- Generated at: 2026-04-27T08:52:39.799Z
 
 ## Summary
 Perfil institucional de Marcelo Amorim com Cerebrum, LinkedIn e presença pública dedicada para leitura clara e identidade própria.
